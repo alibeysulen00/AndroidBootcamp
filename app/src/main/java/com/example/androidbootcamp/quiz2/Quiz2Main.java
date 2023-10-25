@@ -10,7 +10,7 @@ public class Quiz2Main {
         System.out.println("----------------------------Km-Mil dönüştürme fonksiyonu------------------------------------------------------------------");
 
 
-        System.out.println("Mil : "+ quiz2.kmToMilConverter(5.6));
+        System.out.println("Mil : " + quiz2.kmToMilConverter(5.6));
 
         System.out.println("-----------------------------------Dikdörtgen alan fonksiyonu-----------------------------------------------------------");
 
@@ -28,11 +28,11 @@ public class Quiz2Main {
 
         System.out.println("--------------------------------------Maaş hesabı--------------------------------------------------------");
 
-        System.out.println("Maaşınız : "+ quiz2.salaryAccount(20));
+        System.out.println("Maaşınız : " + quiz2.salaryAccount(20));
 
         System.out.println("-----------------------------------------Otopark Ücreti-----------------------------------------------------");
 
-        System.out.println("Ödenecek Tutar :"+ quiz2.carparkingFee(4));
+        System.out.println("Ödenecek Tutar :" + quiz2.carparkingFee(4));
 
 
     }
